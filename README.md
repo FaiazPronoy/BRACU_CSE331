@@ -2,6 +2,17 @@
 
 Welcome to my CSE331 repository! This repository contains the theory assessments I have completed during my coursework at BRAC University as part of my Bachelor's in Computer Science and Engineering (CSE). Each folder within this repository corresponds to a specific topic, with detailed solutions and code implementations.
 
+## Course Contents
+- DFA
+- REGEX
+- NFA
+- REGEX TO NFA
+- DFA TO REGEX
+- PDA
+- CFG
+- CYK
+- CNF
+- PUMPING LEMMA
 
 
 ## License
